@@ -7,9 +7,13 @@ I used React with Typescript to make the code cleaner and easily understandable.
 
 ## How to run
 
-In the project directory, you can run:
+In the project directory, first install the dependencies with:
 
-### `npm start / yarn start`
+### `yarn / npm install`
+
+Then run the project with:
+
+### `yarn start / npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
